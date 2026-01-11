@@ -1,0 +1,5 @@
+{
+  "name": "EduControl Pro",
+  "description": "Una plataforma integral para la gestión escolar que permite el control de alumnos, asignación de profesores, gestión de horarios y pase de lista en tiempo real.",
+  "requestFramePermissions": []
+}
